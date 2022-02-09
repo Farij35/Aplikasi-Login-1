@@ -45,7 +45,7 @@ loginFormElement.addEventListener('submit', function(event) {
   */
   const email = inputEmailElement.value;
   
-   /**
+  /**
   * Membuat variabel password untuk menyimpan password yang didapatkan saat tombol ditekan.
   * @constant {HTML Element}
   */
